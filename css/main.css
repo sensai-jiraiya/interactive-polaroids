@@ -52,4 +52,5 @@ html {
 .polaroid:hover {
   transform: rotate(0);
   z-index: 200;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 1);
 }
