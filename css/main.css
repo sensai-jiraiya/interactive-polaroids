@@ -25,6 +25,7 @@ html {
 .polaroid > figcaption {
   color: #fff;
   text-shadow: 1px 1px 3px #000;
+  position: absolute;
 }
 
 .polaroid:first-child {
