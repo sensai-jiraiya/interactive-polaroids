@@ -30,4 +30,6 @@ html {
 .polaroid:first-child {
   transform: rotate(-5deg);
   position: absolute;
+  left: 100px;
+  top:100px;
 }
