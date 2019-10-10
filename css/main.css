@@ -28,25 +28,25 @@ html {
 }
 
 .polaroid:first-child {
-  transform: rotate(-5deg);
+  transform: rotate(-10deg);
   position: absolute;
-  left: 100px;
+  left: 200px;
   top: 100px;
 }
 
 .polaroid:nth-child(2) {
   transform: rotate(5deg);
   position: absolute;
-  left: 200px;
+  left: 300px;
   top: 150px;
   z-index: 100;
 }
 
 .polaroid:nth-child(3) {
-  transform: rotate(15deg);
+  transform: rotate(30deg);
   position: absolute;
-  left: 300px;
-  top: 200px;
+  left: 400px;
+  top: 100px;
 }
 
 .polaroid:hover {
