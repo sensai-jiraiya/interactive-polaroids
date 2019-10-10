@@ -34,9 +34,14 @@ html {
   top: 100px;
 }
 
-.polaroid:nt-child(2) {
+.polaroid:nth-child(2) {
   transform: rotate(5deg);
   position: absolute;
   left: 200px;
   top: 150px;
+  z-index: 100;
+}
+
+.polaroid:nth-child(3) {
+
 }
